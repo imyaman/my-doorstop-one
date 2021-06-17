@@ -6,4 +6,6 @@ links: []
 normative: true
 ref: ''
 reviewed: JJzLKK1G8cUo7iDAkKWYLnCPMDIw8BuhtiMgHgYMXcY=
-text: '오늘은 즐거운 날입니다.'
+text: |
+  Doorstop **shall** provide unique and permanent identifiers to linkable
+  sections of text.
